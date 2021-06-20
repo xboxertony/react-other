@@ -5,9 +5,6 @@ import {Section} from "./components/section.js";
 
 
 class HomePage extends React.Component{
-    constructor(props){
-        super(props);
-    }
     render(){
         return <>
         <Nav/>
